@@ -1,0 +1,3 @@
+.terraform*
+terraform.tfstate*
+shams-key-pair.pem
